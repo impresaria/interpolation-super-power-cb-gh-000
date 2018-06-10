@@ -9,3 +9,12 @@ def display_rainbow(colors)
   print "I: #{colors[5]}, "
   print "V: #{colors[6]}\n"
 end
+
+
+red    = ["red", "R", "0"]
+orange = ["orange", "O", "1"]
+yellow = ["yellow", "Y", "2"]
+green  = ["green", "G", "3"]
+blue   = ["blue", "B", "4"]
+indigo = ["indigo", "I", "5"]
+violet = ["violet", "V", "6"]
