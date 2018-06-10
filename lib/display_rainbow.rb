@@ -9,7 +9,3 @@ def display_rainbow(colors)
   print "I: #{colors[5]}, "
   print "V: #{colors[6]}\n"
 end
-
-puts "#{colors[0]}"
-
-display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
